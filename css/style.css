@@ -1,0 +1,16 @@
+:root {
+	--mainPink: #de1a1a;
+	--mainFulvous: #d78521;
+}
+
+.col-6{
+	color: var(--mainPink);
+	background-color: var(--mainFulvous);
+}
+.hex{
+	display: block;
+	
+}
+h1{
+	display: block;
+}
